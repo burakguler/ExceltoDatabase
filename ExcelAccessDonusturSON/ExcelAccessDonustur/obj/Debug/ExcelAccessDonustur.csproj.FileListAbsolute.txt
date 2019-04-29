@@ -1,0 +1,53 @@
+C:\Users\Burak Güler\source\repos\ExcelAccessDonustur\ExcelAccessDonustur\obj\Debug\ExcelAccessDonustur.csprojAssemblyReference.cache
+C:\Users\Burak Güler\source\repos\ExcelAccessDonustur\ExcelAccessDonustur\obj\Debug\ExcelAccessDonustur.ExelAccessDonustur1.resources
+C:\Users\Burak Güler\source\repos\ExcelAccessDonustur\ExcelAccessDonustur\obj\Debug\ExcelAccessDonustur.Properties.Resources.resources
+C:\Users\Burak Güler\source\repos\ExcelAccessDonustur\ExcelAccessDonustur\obj\Debug\ExcelAccessDonustur.csproj.GenerateResource.cache
+C:\Users\Burak Güler\source\repos\ExcelAccessDonustur\ExcelAccessDonustur\obj\Debug\ExcelAccessDonustur.csproj.CoreCompileInputs.cache
+C:\Users\Burak Güler\source\repos\ExcelAccessDonustur\ExcelAccessDonustur\bin\Debug\ExcelAccessDonustur.exe.config
+C:\Users\Burak Güler\source\repos\ExcelAccessDonustur\ExcelAccessDonustur\bin\Debug\ExcelAccessDonustur.exe
+C:\Users\Burak Güler\source\repos\ExcelAccessDonustur\ExcelAccessDonustur\bin\Debug\ExcelAccessDonustur.pdb
+C:\Users\Burak Güler\source\repos\ExcelAccessDonustur\ExcelAccessDonustur\obj\Debug\ExcelAccessDonustur.exe
+C:\Users\Burak Güler\source\repos\ExcelAccessDonustur\ExcelAccessDonustur\obj\Debug\ExcelAccessDonustur.pdb
+C:\Users\Burak Güler\source\repos\ExcelAccessDonustur\ExcelAccessDonustur\bin\Debug\Burak.accdb
+C:\Users\stjitbur\Desktop\project\ExcelAccessDonustur\ExcelAccessDonustur\bin\Debug\Burak.accdb
+C:\Users\stjitbur\Desktop\project\ExcelAccessDonustur\ExcelAccessDonustur\bin\Debug\ExcelAccessDonustur.exe.config
+C:\Users\stjitbur\Desktop\project\ExcelAccessDonustur\ExcelAccessDonustur\bin\Debug\ExcelAccessDonustur.exe
+C:\Users\stjitbur\Desktop\project\ExcelAccessDonustur\ExcelAccessDonustur\bin\Debug\ExcelAccessDonustur.pdb
+C:\Users\stjitbur\Desktop\project\ExcelAccessDonustur\ExcelAccessDonustur\obj\Debug\ExcelAccessDonustur.csprojAssemblyReference.cache
+C:\Users\stjitbur\Desktop\project\ExcelAccessDonustur\ExcelAccessDonustur\obj\Debug\ExcelAccessDonustur.Properties.Resources.resources
+C:\Users\stjitbur\Desktop\project\ExcelAccessDonustur\ExcelAccessDonustur\obj\Debug\ExcelAccessDonustur.csproj.GenerateResource.cache
+C:\Users\stjitbur\Desktop\project\ExcelAccessDonustur\ExcelAccessDonustur\obj\Debug\ExcelAccessDonustur.csproj.CoreCompileInputs.cache
+C:\Users\stjitbur\Desktop\project\ExcelAccessDonustur\ExcelAccessDonustur\obj\Debug\ExcelAccessDonustur.exe
+C:\Users\stjitbur\Desktop\project\ExcelAccessDonustur\ExcelAccessDonustur\obj\Debug\ExcelAccessDonustur.pdb
+C:\Users\stjitbur\Desktop\project\ExcelAccessDonustur\ExcelAccessDonustur\obj\Debug\ExcelAccessDonustur.Form1.resources
+C:\Users\stjitbur\Desktop\project\ExcelAccessDonustur\ExcelAccessDonustur\obj\Debug\ExcelAccessDonustur.Form2.resources
+C:\Users\stjitbur\Desktop\project\ExcelAccessDonustur\ExcelAccessDonustur\obj\Debug\ExcelAccessDonustur.csproj.ResolveComReference.cache
+C:\Users\stjitbur\Desktop\project\ExcelAccessDonustur\ExcelAccessDonustur\obj\Debug\ExcelAccessDonustur.Form3.resources
+D:\Users\Burak Güler\Desktop\ExcelAccessDonusturSON\ExcelAccessDonustur\bin\Debug\Burak.accdb
+D:\Users\Burak Güler\Desktop\ExcelAccessDonusturSON\ExcelAccessDonustur\bin\Debug\ExcelAccessDonustur.exe.config
+D:\Users\Burak Güler\Desktop\ExcelAccessDonusturSON\ExcelAccessDonustur\bin\Debug\ExcelAccessDonustur.exe
+D:\Users\Burak Güler\Desktop\ExcelAccessDonusturSON\ExcelAccessDonustur\bin\Debug\ExcelAccessDonustur.pdb
+D:\Users\Burak Güler\Desktop\ExcelAccessDonusturSON\ExcelAccessDonustur\obj\Debug\ExcelAccessDonustur.csprojAssemblyReference.cache
+D:\Users\Burak Güler\Desktop\ExcelAccessDonusturSON\ExcelAccessDonustur\obj\Debug\ExcelAccessDonustur.csproj.ResolveComReference.cache
+D:\Users\Burak Güler\Desktop\ExcelAccessDonusturSON\ExcelAccessDonustur\obj\Debug\ExcelAccessDonustur.Form1.resources
+D:\Users\Burak Güler\Desktop\ExcelAccessDonusturSON\ExcelAccessDonustur\obj\Debug\ExcelAccessDonustur.Form2.resources
+D:\Users\Burak Güler\Desktop\ExcelAccessDonusturSON\ExcelAccessDonustur\obj\Debug\ExcelAccessDonustur.Form3.resources
+D:\Users\Burak Güler\Desktop\ExcelAccessDonusturSON\ExcelAccessDonustur\obj\Debug\ExcelAccessDonustur.Properties.Resources.resources
+D:\Users\Burak Güler\Desktop\ExcelAccessDonusturSON\ExcelAccessDonustur\obj\Debug\ExcelAccessDonustur.csproj.GenerateResource.cache
+D:\Users\Burak Güler\Desktop\ExcelAccessDonusturSON\ExcelAccessDonustur\obj\Debug\ExcelAccessDonustur.csproj.CoreCompileInputs.cache
+D:\Users\Burak Güler\Desktop\ExcelAccessDonusturSON\ExcelAccessDonustur\obj\Debug\ExcelAccessDonustur.exe
+D:\Users\Burak Güler\Desktop\ExcelAccessDonusturSON\ExcelAccessDonustur\obj\Debug\ExcelAccessDonustur.pdb
+D:\Ders Notları\Bm399 staj1\ExcelAccessDonusturSON\ExcelAccessDonustur\bin\Debug\Burak.accdb
+D:\Ders Notları\Bm399 staj1\ExcelAccessDonusturSON\ExcelAccessDonustur\bin\Debug\ExcelAccessDonustur.exe.config
+D:\Ders Notları\Bm399 staj1\ExcelAccessDonusturSON\ExcelAccessDonustur\bin\Debug\ExcelAccessDonustur.exe
+D:\Ders Notları\Bm399 staj1\ExcelAccessDonusturSON\ExcelAccessDonustur\bin\Debug\ExcelAccessDonustur.pdb
+D:\Ders Notları\Bm399 staj1\ExcelAccessDonusturSON\ExcelAccessDonustur\obj\Debug\ExcelAccessDonustur.csprojAssemblyReference.cache
+D:\Ders Notları\Bm399 staj1\ExcelAccessDonusturSON\ExcelAccessDonustur\obj\Debug\ExcelAccessDonustur.csproj.ResolveComReference.cache
+D:\Ders Notları\Bm399 staj1\ExcelAccessDonusturSON\ExcelAccessDonustur\obj\Debug\ExcelAccessDonustur.Form1.resources
+D:\Ders Notları\Bm399 staj1\ExcelAccessDonusturSON\ExcelAccessDonustur\obj\Debug\ExcelAccessDonustur.Form2.resources
+D:\Ders Notları\Bm399 staj1\ExcelAccessDonusturSON\ExcelAccessDonustur\obj\Debug\ExcelAccessDonustur.Form3.resources
+D:\Ders Notları\Bm399 staj1\ExcelAccessDonusturSON\ExcelAccessDonustur\obj\Debug\ExcelAccessDonustur.Properties.Resources.resources
+D:\Ders Notları\Bm399 staj1\ExcelAccessDonusturSON\ExcelAccessDonustur\obj\Debug\ExcelAccessDonustur.csproj.GenerateResource.cache
+D:\Ders Notları\Bm399 staj1\ExcelAccessDonusturSON\ExcelAccessDonustur\obj\Debug\ExcelAccessDonustur.csproj.CoreCompileInputs.cache
+D:\Ders Notları\Bm399 staj1\ExcelAccessDonusturSON\ExcelAccessDonustur\obj\Debug\ExcelAccessDonustur.exe
+D:\Ders Notları\Bm399 staj1\ExcelAccessDonusturSON\ExcelAccessDonustur\obj\Debug\ExcelAccessDonustur.pdb
